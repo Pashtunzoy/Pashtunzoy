@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/Pashtunzoy/Pashtunzoy/raw/main/markus-spiske-hvSr_CVecVI-unsplash.jpeg" />
+
 - 👋 Hi, I’m @Pashtunzoy
 - 👀 I’m interested in coding and build real world solution to an array of theoritical problems.
 - 🌱 I’m currently learning to learn, I mean it never ends, blink and there's a new languge, framework or library.
