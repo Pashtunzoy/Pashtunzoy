@@ -3,9 +3,9 @@
 # Hi! 👋
 
 - 🤙 I’m Asep
-- 👀 I’m interested in coding and build real world solution to an array of theoritical problems.
+- 👀 I’m interested in coding and building real world solution.
 - 🌱 I’m currently learning to learn, I mean it never ends, blink and there's a new languge, framework or library.
-- 💞️ I’m looking to collaborate on OSS projects that geniunely do good, to everyone involved, from the creators to the users.
+- 💞️ I’m looking to collaborate on OSS projects that geniunely do good, to everyone involved, from the creator to the user.
 - 📫 How to reach me: on twitter @asepnorzai or even here.
 
 ## A few cool stats
